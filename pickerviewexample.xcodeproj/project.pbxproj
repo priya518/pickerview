@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C2055069231FA51F000F4D35 /* kaibi.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2055068231FA51F000F4D35 /* kaibi.swift */; };
 		C268EE212317D37600C732A9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C268EE202317D37600C732A9 /* AppDelegate.swift */; };
 		C268EE232317D37600C732A9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C268EE222317D37600C732A9 /* ViewController.swift */; };
 		C268EE262317D37600C732A9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C268EE242317D37600C732A9 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C2055068231FA51F000F4D35 /* kaibi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kaibi.swift; sourceTree = "<group>"; };
 		C268EE1D2317D37600C732A9 /* pickerviewexample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pickerviewexample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C268EE202317D37600C732A9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C268EE222317D37600C732A9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				C268EE272317D37600C732A9 /* Assets.xcassets */,
 				C268EE292317D37600C732A9 /* LaunchScreen.storyboard */,
 				C268EE2C2317D37600C732A9 /* Info.plist */,
+				C2055068231FA51F000F4D35 /* kaibi.swift */,
 			);
 			path = pickerviewexample;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				C268EE232317D37600C732A9 /* ViewController.swift in Sources */,
 				C268EE212317D37600C732A9 /* AppDelegate.swift in Sources */,
+				C2055069231FA51F000F4D35 /* kaibi.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
